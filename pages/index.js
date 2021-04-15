@@ -1,7 +1,9 @@
-export default Home = () => {
+const Home = () => {
   return (
     <div>
       <p>White Cat</p>
     </div>
   )
 }
+
+export default HOME
